@@ -1,7 +1,7 @@
 # Rafael Ferreira :man_technologist:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/rfaelfp)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=edin.com/in/rafael-ferreira-pedrosa-021b16ba/)](edin.com/in/rafael-ferreira-pedrosa-021b16ba/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-ferreira-pedrosa-021b16ba/)](https://www.linkedin.com/in/rafael-ferreira-pedrosa-021b16ba//)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5531993153549&text=Olá!)](https://api.whatsapp.com/send?phone=5531993153549&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelfepedrosa@gmail.com)](mailto:rafaelfepedrosa@gmail.com)
 
